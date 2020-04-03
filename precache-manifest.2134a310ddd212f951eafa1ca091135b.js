@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "268fe6766a21f31106bded6865b07e9a",
+    "revision": "52c4bbc7c73a1df802b02692cfbd8364",
     "url": "/debello.github.io/index.html"
   },
   {
-    "revision": "ebab80a1ffb244e8aa14",
-    "url": "/debello.github.io/static/js/2.26282c9f.chunk.js"
+    "revision": "94d79389a35ce70a6a9a",
+    "url": "/debello.github.io/static/js/2.1ae0ea69.chunk.js"
   },
   {
     "revision": "9f55a1ac102148e41f3a9543b31fc30f",
-    "url": "/debello.github.io/static/js/2.26282c9f.chunk.js.LICENSE.txt"
+    "url": "/debello.github.io/static/js/2.1ae0ea69.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fce212cd7640518305b5",
-    "url": "/debello.github.io/static/js/main.e70718b5.chunk.js"
+    "revision": "b79e9d659ddf5d9a42fc",
+    "url": "/debello.github.io/static/js/main.5649a71b.chunk.js"
   },
   {
-    "revision": "d60ca08c9b21decfab1f",
-    "url": "/debello.github.io/static/js/runtime-main.0e4e069a.js"
+    "revision": "6db66ea36e4dbacd7782",
+    "url": "/debello.github.io/static/js/runtime-main.d5cd1e16.js"
   },
   {
     "revision": "b608deeb954ed518eafc31d1c7553540",

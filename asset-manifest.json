@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/debello.github.io/static/js/main.e70718b5.chunk.js",
-    "main.js.map": "/debello.github.io/static/js/main.e70718b5.chunk.js.map",
-    "runtime-main.js": "/debello.github.io/static/js/runtime-main.0e4e069a.js",
-    "runtime-main.js.map": "/debello.github.io/static/js/runtime-main.0e4e069a.js.map",
-    "static/js/2.26282c9f.chunk.js": "/debello.github.io/static/js/2.26282c9f.chunk.js",
-    "static/js/2.26282c9f.chunk.js.map": "/debello.github.io/static/js/2.26282c9f.chunk.js.map",
+    "main.js": "/debello.github.io/static/js/main.5649a71b.chunk.js",
+    "main.js.map": "/debello.github.io/static/js/main.5649a71b.chunk.js.map",
+    "runtime-main.js": "/debello.github.io/static/js/runtime-main.d5cd1e16.js",
+    "runtime-main.js.map": "/debello.github.io/static/js/runtime-main.d5cd1e16.js.map",
+    "static/js/2.1ae0ea69.chunk.js": "/debello.github.io/static/js/2.1ae0ea69.chunk.js",
+    "static/js/2.1ae0ea69.chunk.js.map": "/debello.github.io/static/js/2.1ae0ea69.chunk.js.map",
     "index.html": "/debello.github.io/index.html",
-    "precache-manifest.eb085a6ff04c61d7aa4a7b3bb1a08284.js": "/debello.github.io/precache-manifest.eb085a6ff04c61d7aa4a7b3bb1a08284.js",
+    "precache-manifest.2134a310ddd212f951eafa1ca091135b.js": "/debello.github.io/precache-manifest.2134a310ddd212f951eafa1ca091135b.js",
     "service-worker.js": "/debello.github.io/service-worker.js",
-    "static/js/2.26282c9f.chunk.js.LICENSE.txt": "/debello.github.io/static/js/2.26282c9f.chunk.js.LICENSE.txt",
+    "static/js/2.1ae0ea69.chunk.js.LICENSE.txt": "/debello.github.io/static/js/2.1ae0ea69.chunk.js.LICENSE.txt",
     "static/media/DeterminationSansWeb.ttf": "/debello.github.io/static/media/DeterminationSansWeb.b608deeb.ttf",
     "static/media/EndlessBossBattle.ttf": "/debello.github.io/static/media/EndlessBossBattle.6978d81c.ttf",
     "static/media/corazon-amarillo.png": "/debello.github.io/static/media/corazon-amarillo.0227344c.png",
@@ -21,8 +21,8 @@
     "static/media/icono-twitter.png": "/debello.github.io/static/media/icono-twitter.4b514fbf.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0e4e069a.js",
-    "static/js/2.26282c9f.chunk.js",
-    "static/js/main.e70718b5.chunk.js"
+    "static/js/runtime-main.d5cd1e16.js",
+    "static/js/2.1ae0ea69.chunk.js",
+    "static/js/main.5649a71b.chunk.js"
   ]
 }
