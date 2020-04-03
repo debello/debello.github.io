@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.js": "/static/js/main.4d0762e6.chunk.js",
-    "main.js.map": "/static/js/main.4d0762e6.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.8614b118.js",
-    "runtime-main.js.map": "/static/js/runtime-main.8614b118.js.map",
-    "static/js/2.b566547e.chunk.js": "/static/js/2.b566547e.chunk.js",
-    "static/js/2.b566547e.chunk.js.map": "/static/js/2.b566547e.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.ca42ca4b863052698fe2221884c79e1a.js": "/precache-manifest.ca42ca4b863052698fe2221884c79e1a.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.b566547e.chunk.js.LICENSE.txt": "/static/js/2.b566547e.chunk.js.LICENSE.txt",
-    "static/media/DeterminationSansWeb.ttf": "/static/media/DeterminationSansWeb.b608deeb.ttf",
-    "static/media/EndlessBossBattle.ttf": "/static/media/EndlessBossBattle.6978d81c.ttf",
-    "static/media/corazon-amarillo.png": "/static/media/corazon-amarillo.0227344c.png",
-    "static/media/corazon-azul.png": "/static/media/corazon-azul.b9156a81.png",
-    "static/media/corazon-rojo.png": "/static/media/corazon-rojo.fa459ea0.png",
-    "static/media/corazon-verde.png": "/static/media/corazon-verde.f0e6a9da.png",
-    "static/media/corazon-violeta.png": "/static/media/corazon-violeta.b52e95c1.png",
-    "static/media/icono-github.png": "/static/media/icono-github.427b8bc2.png",
-    "static/media/icono-twitter.png": "/static/media/icono-twitter.4b514fbf.png"
+    "main.js": "/debello.github.io/static/js/main.e70718b5.chunk.js",
+    "main.js.map": "/debello.github.io/static/js/main.e70718b5.chunk.js.map",
+    "runtime-main.js": "/debello.github.io/static/js/runtime-main.0e4e069a.js",
+    "runtime-main.js.map": "/debello.github.io/static/js/runtime-main.0e4e069a.js.map",
+    "static/js/2.26282c9f.chunk.js": "/debello.github.io/static/js/2.26282c9f.chunk.js",
+    "static/js/2.26282c9f.chunk.js.map": "/debello.github.io/static/js/2.26282c9f.chunk.js.map",
+    "index.html": "/debello.github.io/index.html",
+    "precache-manifest.eb085a6ff04c61d7aa4a7b3bb1a08284.js": "/debello.github.io/precache-manifest.eb085a6ff04c61d7aa4a7b3bb1a08284.js",
+    "service-worker.js": "/debello.github.io/service-worker.js",
+    "static/js/2.26282c9f.chunk.js.LICENSE.txt": "/debello.github.io/static/js/2.26282c9f.chunk.js.LICENSE.txt",
+    "static/media/DeterminationSansWeb.ttf": "/debello.github.io/static/media/DeterminationSansWeb.b608deeb.ttf",
+    "static/media/EndlessBossBattle.ttf": "/debello.github.io/static/media/EndlessBossBattle.6978d81c.ttf",
+    "static/media/corazon-amarillo.png": "/debello.github.io/static/media/corazon-amarillo.0227344c.png",
+    "static/media/corazon-azul.png": "/debello.github.io/static/media/corazon-azul.b9156a81.png",
+    "static/media/corazon-rojo.png": "/debello.github.io/static/media/corazon-rojo.fa459ea0.png",
+    "static/media/corazon-verde.png": "/debello.github.io/static/media/corazon-verde.f0e6a9da.png",
+    "static/media/corazon-violeta.png": "/debello.github.io/static/media/corazon-violeta.b52e95c1.png",
+    "static/media/icono-github.png": "/debello.github.io/static/media/icono-github.427b8bc2.png",
+    "static/media/icono-twitter.png": "/debello.github.io/static/media/icono-twitter.4b514fbf.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.8614b118.js",
-    "static/js/2.b566547e.chunk.js",
-    "static/js/main.4d0762e6.chunk.js"
+    "static/js/runtime-main.0e4e069a.js",
+    "static/js/2.26282c9f.chunk.js",
+    "static/js/main.e70718b5.chunk.js"
   ]
 }
